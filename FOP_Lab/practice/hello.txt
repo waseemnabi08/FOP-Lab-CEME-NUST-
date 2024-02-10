@@ -1,0 +1,6 @@
+Name Salary Dept
+
+Hashim 12000 Sales
+Amara 15000 HR
+Athar 13000 IT
+Afzal 11500 Marketing
